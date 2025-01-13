@@ -1,3 +1,2 @@
 # Portafolio
-Esta es mi página web
-https://natsumirivera.github.io/Portafolio/ 
+Esta es mi página web 
